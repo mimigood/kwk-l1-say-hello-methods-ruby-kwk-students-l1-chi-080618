@@ -5,4 +5,3 @@ def say_hello(name="Karlie Kloss!")
   
 end
 
-say_hello
